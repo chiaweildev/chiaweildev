@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chiaweildev@gmail.com)](mailto:chiaweildev@gmail.com)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chiaweildev)
